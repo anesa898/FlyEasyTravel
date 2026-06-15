@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF5B3576-BEFB-4447-AFED-79CF190A490E}|FlyEasy.Api\\FlyEasy.Api.csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\flyeasy.api\\flyeasy.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CF5B3576-BEFB-4447-AFED-79CF190A490E}|FlyEasy.Api\\FlyEasy.Api.csproj|solutionrelative:flyeasy.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CF5B3576-BEFB-4447-AFED-79CF190A490E}|FlyEasy.Api\\FlyEasy.Api.csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\flyeasy.api\\flyeasy.api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{CF5B3576-BEFB-4447-AFED-79CF190A490E}|FlyEasy.Api\\FlyEasy.Api.csproj|solutionrelative:flyeasy.api\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -199,6 +203,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "FlyEasy.Api\\Dockerfile",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Dockerfile",
+              "RelativeToolTip": "FlyEasy.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-15T02:10:06.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\README.md",
               "RelativeDocumentMoniker": "FlyEasy.Api\\README.md",
@@ -211,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BookingsControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Tests\\Tests\\BookingsControllerTests.cs",
               "RelativeDocumentMoniker": "FlyEasy.Tests\\Tests\\BookingsControllerTests.cs",
@@ -219,12 +236,11 @@
               "RelativeToolTip": "FlyEasy.Tests\\Tests\\BookingsControllerTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T01:17:09.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T01:17:09.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FlightsControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Tests\\Tests\\FlightsControllerTests.cs",
               "RelativeDocumentMoniker": "FlyEasy.Tests\\Tests\\FlightsControllerTests.cs",
@@ -232,12 +248,11 @@
               "RelativeToolTip": "FlyEasy.Tests\\Tests\\FlightsControllerTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T01:16:53.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-15T01:16:53.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AuthControllerTests.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Tests\\Tests\\AuthControllerTests.cs",
               "RelativeDocumentMoniker": "FlyEasy.Tests\\Tests\\AuthControllerTests.cs",
@@ -245,16 +260,11 @@
               "RelativeToolTip": "FlyEasy.Tests\\Tests\\AuthControllerTests.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwB8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-15T01:16:36.105Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-06-15T01:16:36.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Controllers\\UsersController.cs",
@@ -262,12 +272,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Controllers\\UsersController.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-11T15:56:17.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-11T15:56:17.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "LuggagePackagesController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Controllers\\LuggagePackagesController.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Controllers\\LuggagePackagesController.cs",
@@ -275,12 +284,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Controllers\\LuggagePackagesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T17:13:15.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T17:13:15.485Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AirportsController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Controllers\\AirportsController.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Controllers\\AirportsController.cs",
@@ -288,12 +296,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Controllers\\AirportsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAIwBEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T17:10:02.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T17:10:02.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "PaymentsController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Controllers\\PaymentsController.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Controllers\\PaymentsController.cs",
@@ -301,12 +308,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Controllers\\PaymentsController.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAcwEAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T17:05:57.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T17:05:57.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "CreatePaymentDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\DTOs\\CreatePaymentDto.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\DTOs\\CreatePaymentDto.cs",
@@ -314,12 +320,11 @@
               "RelativeToolTip": "FlyEasy.Api\\DTOs\\CreatePaymentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T17:05:30.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T17:05:30.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "PassengersController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Controllers\\PassengersController.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Controllers\\PassengersController.cs",
@@ -327,12 +332,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Controllers\\PassengersController.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAUwEoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T16:59:55.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T16:59:55.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "CreatePassengerDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\DTOs\\CreatePassengerDto.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\DTOs\\CreatePassengerDto.cs",
@@ -340,12 +344,11 @@
               "RelativeToolTip": "FlyEasy.Api\\DTOs\\CreatePassengerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T16:59:26.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T16:59:26.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "SeatsController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Controllers\\SeatsController.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Controllers\\SeatsController.cs",
@@ -353,12 +356,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Controllers\\SeatsController.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAUwCsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T16:46:42.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T16:46:42.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "20260610164213_AddSeatsTable.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Migrations\\20260610164213_AddSeatsTable.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Migrations\\20260610164213_AddSeatsTable.cs",
@@ -366,12 +368,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Migrations\\20260610164213_AddSeatsTable.cs",
               "ViewState": "AgIAABMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T16:42:13.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T16:42:13.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "BookingsController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Controllers\\BookingsController.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Controllers\\BookingsController.cs",
@@ -379,12 +380,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Controllers\\BookingsController.cs",
               "ViewState": "AgIAAIwAAAAAAAAAAADwv5cAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T16:37:02.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T16:37:02.566Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "BookingService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Services\\Implementations\\BookingService.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Services\\Implementations\\BookingService.cs",
@@ -392,12 +392,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Services\\Implementations\\BookingService.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAcwDUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T16:34:03.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T16:34:03.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "IBookingService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Services\\Interfaces\\IBookingService.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Services\\Interfaces\\IBookingService.cs",
@@ -405,12 +404,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Services\\Interfaces\\IBookingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T16:33:38.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T16:33:38.978Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "BookingRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Repositories\\Implementations\\BookingRepository.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Repositories\\Implementations\\BookingRepository.cs",
@@ -418,12 +416,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Repositories\\Implementations\\BookingRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T16:33:10.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T16:33:10.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "IBookingRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Repositories\\Interfaces\\IBookingRepository.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Repositories\\Interfaces\\IBookingRepository.cs",
@@ -431,12 +428,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Repositories\\Interfaces\\IBookingRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T16:31:56.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T16:31:56.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "CreateBookingDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\DTOs\\CreateBookingDto.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\DTOs\\CreateBookingDto.cs",
@@ -444,12 +440,11 @@
               "RelativeToolTip": "FlyEasy.Api\\DTOs\\CreateBookingDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T16:31:29.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T16:31:29.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "FlightSearchDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\DTOs\\FlightSearchDto.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\DTOs\\FlightSearchDto.cs",
@@ -457,12 +452,11 @@
               "RelativeToolTip": "FlyEasy.Api\\DTOs\\FlightSearchDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T16:21:31.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T16:21:31.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "FlightService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Services\\Implementations\\FlightService.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Services\\Implementations\\FlightService.cs",
@@ -470,12 +464,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Services\\Implementations\\FlightService.cs",
               "ViewState": "AgIAABMAAAAAAAAAAIBQwDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T15:31:22.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T15:31:22.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "IFlightService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Services\\Interfaces\\IFlightService.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Services\\Interfaces\\IFlightService.cs",
@@ -483,12 +476,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Services\\Interfaces\\IFlightService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T15:31:01.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T15:31:01.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "FlightRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Repositories\\Implementations\\FlightRepository.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Repositories\\Implementations\\FlightRepository.cs",
@@ -496,12 +488,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Repositories\\Implementations\\FlightRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T15:30:26.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T15:30:26.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IFlightRepository.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Repositories\\Interfaces\\IFlightRepository.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Repositories\\Interfaces\\IFlightRepository.cs",
@@ -509,12 +500,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Repositories\\Interfaces\\IFlightRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T15:29:53.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T15:29:53.94Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "20260610152718_AddUserRole.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Migrations\\20260610152718_AddUserRole.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Migrations\\20260610152718_AddUserRole.cs",
@@ -522,12 +512,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Migrations\\20260610152718_AddUserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T15:27:19.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T15:27:19.001Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "AuthResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\DTOs\\AuthResponseDto.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\DTOs\\AuthResponseDto.cs",
@@ -535,12 +524,11 @@
               "RelativeToolTip": "FlyEasy.Api\\DTOs\\AuthResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-10T15:25:00.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-10T15:25:00.179Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SeedController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Controllers\\SeedController.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Controllers\\SeedController.cs",
@@ -548,12 +536,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Controllers\\SeedController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAIBJwBEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:56:09.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:56:09.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FlightsController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Controllers\\FlightsController.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Controllers\\FlightsController.cs",
@@ -561,12 +548,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Controllers\\FlightsController.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAqwHoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:54:49.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:54:49.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "20260607235335_AddFlightBookingTables.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Migrations\\20260607235335_AddFlightBookingTables.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Migrations\\20260607235335_AddFlightBookingTables.cs",
@@ -574,12 +560,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Migrations\\20260607235335_AddFlightBookingTables.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:53:35.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:53:35.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Models\\Payment.cs",
@@ -587,12 +572,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Models\\Payment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:50:38.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:50:38.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "LuggagePackage.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Models\\LuggagePackage.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Models\\LuggagePackage.cs",
@@ -600,12 +584,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Models\\LuggagePackage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:50:24.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:50:24.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Seats.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Models\\Seats.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Models\\Seats.cs",
@@ -613,12 +596,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Models\\Seats.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:50:11.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:50:11.272Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Passenger.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Models\\Passenger.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Models\\Passenger.cs",
@@ -626,12 +608,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Models\\Passenger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:49:57.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:49:57.966Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Models\\Booking.cs",
@@ -639,12 +620,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Models\\Booking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:49:44.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:49:44.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Airport.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Models\\Airport.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Models\\Airport.cs",
@@ -652,12 +632,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Models\\Airport.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:49:27.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:49:27.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Flight.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Models\\Flight.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Models\\Flight.cs",
@@ -665,12 +644,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Models\\Flight.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBQwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:49:11.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:49:11.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Controllers\\AuthController.cs",
@@ -678,12 +656,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAqwGsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:40:55.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:40:55.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\DTOs\\LoginDto.cs",
@@ -691,12 +668,11 @@
               "RelativeToolTip": "FlyEasy.Api\\DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:40:06.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:40:06.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\DTOs\\RegisterDto.cs",
@@ -704,12 +680,11 @@
               "RelativeToolTip": "FlyEasy.Api\\DTOs\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:39:39.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:39:39.872Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "20260607233809_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Migrations\\20260607233809_InitialCreate.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Migrations\\20260607233809_InitialCreate.cs",
@@ -717,12 +692,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Migrations\\20260607233809_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:38:09.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:38:09.494Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Models\\User.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Models\\User.cs",
@@ -730,12 +704,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:36:07.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:36:07.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Data\\ApplicationDbContext.cs",
@@ -743,12 +716,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAkwBwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:35:38.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:35:38.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\Program.cs",
               "RelativeDocumentMoniker": "FlyEasy.Api\\Program.cs",
@@ -756,12 +728,11 @@
               "RelativeToolTip": "FlyEasy.Api\\Program.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAEsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-07T23:33:51.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:33:51.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\FlyEasy.Api\\FlyEasy.Api\\appsettings.json",
               "RelativeDocumentMoniker": "FlyEasy.Api\\appsettings.json",
@@ -769,8 +740,11 @@
               "RelativeToolTip": "FlyEasy.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-07T23:30:15.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-07T23:30:15.536Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
