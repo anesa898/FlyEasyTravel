@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\services\\implementation\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\services\\implementation\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\services\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\services\\interface\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\dtos\\patientrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\dtos\\patientrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\hospitalapi..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\hospitalapi..csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Migrations\\20260611202209_RenamePatientTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HospitalApi\\Migrations\\20260611202209_RenamePatientTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\migrations\\20260611200710_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\migrations\\20260611200710_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\repository\\implementation\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\repository\\implementation\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\repository\\interface\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\repository\\interface\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\data\\hospitaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|c:\\users\\pc\\desktop\\flyeasytravel\\backend\\hospitalapi\\hospitalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{673232BC-0A32-4247-8C47-446B4AE36E27}|HospitalApi\\HospitalApi..csproj|solutionrelative:hospitalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "HospitalApi\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "HospitalApi\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T22:08:46.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\DTOs\\PatientDTO.cs",
+              "RelativeDocumentMoniker": "HospitalApi\\DTOs\\PatientDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\DTOs\\PatientDTO.cs",
+              "RelativeToolTip": "HospitalApi\\DTOs\\PatientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T22:04:42.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\DTOs\\PatientRequestDTO.cs",
+              "RelativeDocumentMoniker": "HospitalApi\\DTOs\\PatientRequestDTO.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\DTOs\\PatientRequestDTO.cs",
+              "RelativeToolTip": "HospitalApi\\DTOs\\PatientRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T22:04:27.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HospitalApi.",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\HospitalApi..csproj",
+              "RelativeDocumentMoniker": "HospitalApi\\HospitalApi..csproj",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\HospitalApi..csproj",
+              "RelativeToolTip": "HospitalApi\\HospitalApi..csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-11T22:03:26.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Services\\Implementation\\PatientService.cs",
+              "RelativeDocumentMoniker": "HospitalApi\\Services\\Implementation\\PatientService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Services\\Implementation\\PatientService.cs",
+              "RelativeToolTip": "HospitalApi\\Services\\Implementation\\PatientService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T20:47:54.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Services\\Interface\\IPatientService.cs",
+              "RelativeDocumentMoniker": "HospitalApi\\Services\\Interface\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Services\\Interface\\IPatientService.cs",
+              "RelativeToolTip": "HospitalApi\\Services\\Interface\\IPatientService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T20:47:38.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260611202209_RenamePatientTable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Migrations\\20260611202209_RenamePatientTable.cs",
+              "RelativeDocumentMoniker": "HospitalApi\\Migrations\\20260611202209_RenamePatientTable.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Migrations\\20260611202209_RenamePatientTable.cs",
+              "RelativeToolTip": "HospitalApi\\Migrations\\20260611202209_RenamePatientTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T20:22:10.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260611200710_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Migrations\\20260611200710_InitialCreate.cs",
+              "RelativeDocumentMoniker": "HospitalApi\\Migrations\\20260611200710_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Migrations\\20260611200710_InitialCreate.cs",
+              "RelativeToolTip": "HospitalApi\\Migrations\\20260611200710_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T20:07:11.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Repository\\Implementation\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "HospitalApi\\Repository\\Implementation\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Repository\\Implementation\\PatientRepository.cs",
+              "RelativeToolTip": "HospitalApi\\Repository\\Implementation\\PatientRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T19:25:06.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Repository\\Interface\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "HospitalApi\\Repository\\Interface\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Repository\\Interface\\IPatientRepository.cs",
+              "RelativeToolTip": "HospitalApi\\Repository\\Interface\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T18:41:52.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalApi\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Program.cs",
+              "RelativeToolTip": "HospitalApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T22:57:50.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\appsettings.json",
+              "RelativeToolTip": "HospitalApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-10T22:56:41.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Data\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalApi\\Data\\HospitalDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Data\\HospitalDbContext.cs",
+              "RelativeToolTip": "HospitalApi\\Data\\HospitalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T22:52:08.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalApi\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Models\\Patient.cs",
+              "RelativeToolTip": "HospitalApi\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T22:47:50.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HospitalApi\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\FlyEasyTravel\\backend\\HospitalApi\\HospitalApi\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HospitalApi\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T22:15:17.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

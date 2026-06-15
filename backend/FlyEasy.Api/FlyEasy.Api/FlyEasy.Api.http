@@ -1,0 +1,6 @@
+@FlyEasy.Api_HostAddress = http://localhost:5261
+
+GET {{FlyEasy.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
