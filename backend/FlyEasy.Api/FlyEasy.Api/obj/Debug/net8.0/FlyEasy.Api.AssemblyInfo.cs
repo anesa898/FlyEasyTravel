@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlyEasy.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d7efdbf23569996090bcc9dfdf589ff5aac7d1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cef665a11f9cac744764f6ab4b383d4f0fbfd99b")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlyEasy.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlyEasy.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
