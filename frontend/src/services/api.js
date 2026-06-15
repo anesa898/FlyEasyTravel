@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://localhost:7013/api",
+  baseURL: "https://flyeasy-api-10z1.onrender.com/api"
 });
 
 api.interceptors.request.use((config) => {
